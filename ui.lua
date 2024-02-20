@@ -19,7 +19,7 @@ function Library:CreateUI(uiname,scrollenabled,elementspacing,framesize,TextAlli
     MainFrame.BorderColor3 = Color3.fromRGB(25, 25, 25)
     MainFrame.BorderSizePixel = 0
     MainFrame.Position = UDim2.new(0.346445292, 0, 0.247718394, 0)
-    MainFrame.Size = UDim2.new(0, 335, 0, 320)
+    MainFrame.Size = UDim2.new(0, 335, 0, 340)
     
     Dashboard.Name = "Dashboard"
     Dashboard.Parent = MainFrame
