@@ -27,7 +27,7 @@ function Library:CreateUI(uiname,scrollenabled,elementspacing,framesize,TextAlli
     Dashboard.BackgroundTransparency = 1.000
     Dashboard.BorderColor3 = Color3.fromRGB(25, 25, 25)
     Dashboard.BorderSizePixel = 0
-    Dashboard.Size = UDim2.new(0, 335, 0, 48)
+    Dashboard.Size = UDim2.new(0, 335, 0, 52)
     
     Title.Name = "Title"
     Title.Parent = Dashboard
